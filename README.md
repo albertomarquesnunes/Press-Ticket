@@ -90,11 +90,7 @@ Este sistema é ideal para empresas que buscam melhorar seu atendimento ao clien
 
 - O Sistema Press Ticket foi desenvolvido em 13 de março de 2022, com base no [Sistema Whaticket Community](https://github.com/canove/whaticket-community), desenvolvido por [Cassio Santos](https://github.com/canove).
 
-## Grupo no Telegram
 
-<a href="https://t.me/+akuzB2BzXitlMDkx">
-    <img alt="Telegram" src="https://img.shields.io/badge/telegram-online-blue.svg?style=for-the-badge&logo=telegram">
-</a>
 
 ## Instalação
 
